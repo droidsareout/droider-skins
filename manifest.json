@@ -1,0 +1,15 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "§qDroid Skins",
+        "uuid": "12edb7b6-2f58-4e96-879f-9857a64a2ce0",
+        "version": [ 1, 0, 0 ]
+    },
+    "modules": [
+        {
+            "type": "skin_pack",
+		"uuid": "ca18f773-7ff0-47fc-901d-97220a5a9c4c",
+            "version": [ 1, 0, 0 ]
+        }
+    ]
+}
