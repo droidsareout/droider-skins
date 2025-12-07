@@ -1,0 +1,12 @@
+{
+  "skins": [
+    {
+      "localization_name": "Depressed Droid",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "depressed.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "droid",
+  "localization_name": "droid"
+}
